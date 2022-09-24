@@ -3,7 +3,7 @@
 
 int core=Runtime.getRuntime().availableProcessors();
 ExecutorService service=Executors.newFixedThreadPool(nThreads)
-### For types of Executor Service available
+### Types of Executor Service 
 1.	newFixedThreadPool
 2.	newCachedThreadPool
 3.	newSingleThreadExecutor
